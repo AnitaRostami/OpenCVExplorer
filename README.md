@@ -90,6 +90,3 @@ This Python script leverages OpenCV to create an interactive video processing ap
 - The script assumes a working camera. If no camera is detected, it will exit.
 - Adjust trackbars to experiment with different effects in real-time.
 - Ensure images are in the correct directory or provide full paths to avoid loading errors.
-
-## License
-This code is for educational purposes only. Modify and distribute as needed.
