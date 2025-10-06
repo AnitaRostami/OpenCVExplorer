@@ -9,6 +9,11 @@ The goal of this repository is to provide a comprehensive set of tutorials cover
 - Configuring camera parameters
 - Adding text overlays (e.g., date and time) on videos
 - Handling mouse events for interactive applications
+- Display Mouse Coordinates
+- Draw Lines with Mouse Drag
+- Crop Image Region with Mouse Selection
+- Color Picker on Image
+- Interactive Free Drawing with Modes
 - And more!
 
 Each tutorial includes well-commented Python code, explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
