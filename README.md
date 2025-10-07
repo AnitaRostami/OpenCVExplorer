@@ -14,6 +14,10 @@ The goal of this repository is to provide a comprehensive set of tutorials cover
 - Crop Image Region with Mouse Selection
 - Color Picker on Image
 - Interactive Free Drawing with Modes
+- Bitwise Operations
+- Simple Image Thresholding (OpenCV Display)
+- Simple Image Thresholding (Matplotlib Display)
+- Adaptive Thresholding
 - And more!
 
 Each tutorial includes well-commented Python code, explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
