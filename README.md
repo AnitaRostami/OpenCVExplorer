@@ -19,6 +19,8 @@ The goal of this repository is to provide a comprehensive set of tutorials cover
 - Simple Image Thresholding (Matplotlib Display)
 - Adaptive Thresholding
 - Morphological trasformations
+- Blurring Techniques
+- Image Gradients and Edge Detection 
 - And more!
 
 Each tutorial includes well-commented Python code, explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
