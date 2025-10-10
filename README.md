@@ -18,12 +18,23 @@ The goal of this repository is to provide a comprehensive set of tutorials cover
 - Simple Image Thresholding (OpenCV Display)
 - Simple Image Thresholding (Matplotlib Display)
 - Adaptive Thresholding
-- Morphological trasformations
+- Morphological Transformations
 - Blurring Techniques
 - Image Gradients and Edge Detection 
+- Gaussian Pyramid
 - And more!
 
-Each tutorial includes well-commented Python code, explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
+Each tutorial includes well-commented Python code, detailed explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
+
+## Inspiration and Added Value
+This repository builds upon the excellent **OpenCV Python Tutorial For Beginners** by [ProgrammingKnowledge](https://www.youtube.com/@ProgrammingKnowledge). While the original tutorial provides a solid foundation for learning OpenCV, this repository enhances it by:
+- **Expanding the Scope**
+- **More Practical Examples**
+- **Improved Explanations**
+- **Enhanced Code**
+- **Regular Updates**
+
+By building on the foundation laid by ProgrammingKnowledge, this repository aims to provide a richer, more interactive learning experience for the OpenCV community. My goal is to make computer vision accessible to everyone by sharing these enhanced resources and encouraging collaboration.
 
 ## Updates
 This repository is a work in progress and will be **regularly updated** with new tutorials, improved code examples, and additional OpenCV topics. Stay tuned for more advanced techniques and real-world applications as the repository grows.
