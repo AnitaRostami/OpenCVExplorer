@@ -22,6 +22,7 @@ The goal of this repository is to provide a comprehensive set of tutorials cover
 - Blurring Techniques
 - Image Gradients and Edge Detection 
 - Gaussian Pyramid
+- Multiple Gaussian Pyramid
 - And more!
 
 Each tutorial includes well-commented Python code, detailed explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
