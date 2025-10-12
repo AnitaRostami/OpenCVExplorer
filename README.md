@@ -23,6 +23,7 @@ The goal of this repository is to provide a comprehensive set of tutorials cover
 - Image Gradients and Edge Detection 
 - Gaussian Pyramid
 - Multiple Gaussian Pyramid
+- Image Blending Using Pyramids
 - And more!
 
 Each tutorial includes well-commented Python code, detailed explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
