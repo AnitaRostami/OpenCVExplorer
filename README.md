@@ -24,6 +24,8 @@ The goal of this repository is to provide a comprehensive set of tutorials cover
 - Gaussian Pyramid
 - Multiple Gaussian Pyramid
 - Image Blending Using Pyramids
+- Drawing All Contours with Different Colors
+- Drawing Specific Contours with Labels
 - And more!
 
 Each tutorial includes well-commented Python code, detailed explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
