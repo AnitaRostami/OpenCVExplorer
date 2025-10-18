@@ -30,6 +30,8 @@ The goal of this repository is to provide a comprehensive set of tutorials cover
 - Detect Simple Geomentic Shapes
 - Image Histograms
 - Template Matching
+- Standard Hough Line Transform
+- Probabilistic Hough Line Transform
 - And more!
 
 Each tutorial includes well-commented Python code, detailed explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
