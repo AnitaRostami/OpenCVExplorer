@@ -35,6 +35,7 @@ The goal of this repository is to provide a comprehensive set of tutorials cover
 - Region of Interest Demonstration
 - Lane Line Detection
 - Circle Detection Code
+- Face Detection Using Haar Cascade Classifiers
 - And more!
 
 Each tutorial includes well-commented Python code, detailed explanations, and instructions to run the examples in a Jupyter Notebook or as standalone scripts.
